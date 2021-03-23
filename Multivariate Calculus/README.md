@@ -22,6 +22,7 @@ This educational program offers a brief introduction to the multivariate calculu
 
 ## Fomula sheet
 
+![Formula sheet](https://user-images.githubusercontent.com/41291493/112100620-bcbb5800-8be8-11eb-93f3-f5287123c816.png)
 
 ## Credit
 
