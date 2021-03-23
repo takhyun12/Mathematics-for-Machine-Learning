@@ -1,4 +1,4 @@
-# Mathematics for Machine Learning
+# Mathematics for Machine Learning with Imperial College London
 
 #### Author: Tackhyun Jung
 
