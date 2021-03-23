@@ -4,9 +4,13 @@
 
 #### Status: ~ing
 
-This repository is created to keep track of [IBM Full Stack Cloud Developer](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) provided by Coursera. This educational program is developed by IBM and designed to teach how to program in `cloud computing` environment.
+This repository is created to keep track of [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) provided by Coursera. This educational program is developed by Imperial College London and designed to getting up to speed in the underlying mathematics, building an intuitive understanding, and relating it to Machine Learning and Data Science.
 
-This Professional Certificate will equip you with all the key skills and technical know-how to kickstart your career as a Full-Stack Cloud Native Application Developer. Guided by experts at IBM, you will learn to build your own cloud-based applications and practice working with the technologies behind them.
+In the first course on Linear Algebra we look at what linear algebra is and how it relates to data. Then we look through what vectors and matrices are and how to work with them.
+
+The second course, Multivariate Calculus, builds on this to look at how to optimize fitting functions to get good fits to data. It starts from introductory calculus and then uses the matrices and vectors from the first course to look at data fitting.
+
+The third course, Dimensionality Reduction with Principal Component Analysis, uses the mathematics from the first two courses to compress high-dimensional data. This course is of intermediate difficulty and will require Python and numpy knowledge.
 
 ---
 
@@ -14,7 +18,6 @@ This Professional Certificate will equip you with all the key skills and technic
 * Develop with `front-end` development languages and tools such as HTML, CSS, JavaScript, React and Bootstrap
 * Program applications using `back-end` languages and frameworks like Express, Node.js, Python, Django, etc.
 * Deploy and scale applications using `Cloud Native` methodologies and tools like Containers, Kubernetes, Microservices and Serverless Functions
-* Build your GitHub portfolio by applying your `Full Stack Cloud Development` skills with multiple labs and hands-on projects, including a capstone
 
 ---
 
