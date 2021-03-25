@@ -10,6 +10,7 @@ This repository is created to keep track of [Mathematics for Machine Learning: M
 
 This educational program offers a brief introduction to the multivariate calculus required to build many common machine learning techniques. 
 
+![Certificate](https://user-images.githubusercontent.com/41291493/112407868-27d86c00-8d5a-11eb-8d38-3862ee5ba9a6.png)
 
 ## Learning Objectives
 
