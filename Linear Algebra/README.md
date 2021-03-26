@@ -1,4 +1,4 @@
-# Mathematics for Machine Learning: Multivariate Calculus
+# Mathematics for Machine Learning: Linear Algebra
 
 Certificate of the course that is offered at Coursera and Imperial College London.
 
