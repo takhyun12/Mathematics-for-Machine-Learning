@@ -20,7 +20,7 @@ In This educational program on Linear Algebra I learned at what linear algebra i
 - Matrices make linear mappings `week 4`
 - Eigenvalues and Eigenvectors: Application to Data Problems `week 5`
 
-## My cute bear
+## My cute panda bear
 
 ![assignment](https://user-images.githubusercontent.com/41291493/112585341-f84e6000-8e3c-11eb-997d-55aa7d0ad610.png)
 
