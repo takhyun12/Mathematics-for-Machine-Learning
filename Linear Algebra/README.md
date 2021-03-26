@@ -8,7 +8,7 @@ Certificate of the course that is offered at Coursera and Imperial College Londo
 
 This repository is created to keep track of [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) provided by Coursera.
 
-This educational program offers a brief introduction to the multivariate calculus required to build many common machine learning techniques. 
+In This educational program on Linear Algebra I learned at what linear algebra is and how it relates to vectors and matrices. Then it learned through what vectors and matrices are and how to work with them, including the knotty problem of eigenvalues and eigenvectors, and how to use these to solve problems. 
 
 ![Certification](https://user-images.githubusercontent.com/41291493/112585333-f4224280-8e3c-11eb-89b6-9d043a007e7d.png)
 
