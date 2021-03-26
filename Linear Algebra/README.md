@@ -6,7 +6,7 @@ Certificate of the course that is offered at Coursera and Imperial College Londo
 
 #### Status: Completed
 
-This repository is created to keep track of [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning) provided by Coursera.
+This repository is created to keep track of [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) provided by Coursera.
 
 This educational program offers a brief introduction to the multivariate calculus required to build many common machine learning techniques. 
 
@@ -14,12 +14,11 @@ This educational program offers a brief introduction to the multivariate calculu
 
 ## Learning Objectives
 
-- What is calculus? `week 1`
-- Multivariate calculus `week 2`
-- Multivariate chain rule and its applications `week 3`
-- Taylor series and linearisation `week 4`
-- Intro to optimisation `week 5`
-- Regression `week 6`
+- Introduction to Linear Algebra and to Mathematics for Machine Learning `week 1`
+- Vectors are objects that move around space `week 2`
+- Matrices in Linear Algebra: Objects that operate on Vectors `week 3`
+- Matrices make linear mappings `week 4`
+- Eigenvalues and Eigenvectors: Application to Data Problems `week 5`
 
 ## Fomula sheet
 
@@ -27,5 +26,5 @@ This educational program offers a brief introduction to the multivariate calculu
 
 ## Credit
 
-- [Mathematics for Machine Learning: Multivariate Calculus](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
-- [Certification-Link](https://www.coursera.org/account/accomplishments/verify/NUNTFRL5MBQG)
+- [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
+- [Certification-Link](https://www.coursera.org/account/accomplishments/verify/HHP3FMC67P9F)
