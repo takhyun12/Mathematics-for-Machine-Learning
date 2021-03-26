@@ -1,4 +1,4 @@
-# Mathematics for Machine Learning: Linear Algebra
+# Mathematics for Machine Learning: PCA
 
 Certificate of the course that is offered at Coursera and Imperial College London.
 
@@ -6,19 +6,18 @@ Certificate of the course that is offered at Coursera and Imperial College Londo
 
 #### Status: Completed
 
-This repository is created to keep track of [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning) provided by Coursera.
+This repository is created to keep track of [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning) provided by Coursera.
 
-In This educational program on Linear Algebra I learned at what linear algebra is and how it relates to vectors and matrices. Then it learned through what vectors and matrices are and how to work with them, including the knotty problem of eigenvalues and eigenvectors, and how to use these to solve problems. 
+This educational program, I learned the mathematical foundations to derive Principal Component Analysis (PCA), a fundamental dimensionality reduction technique. 
 
 ![Certification](https://user-images.githubusercontent.com/41291493/112585333-f4224280-8e3c-11eb-89b6-9d043a007e7d.png)
 
 ## Learning Objectives
 
-- Introduction to Linear Algebra and to Mathematics for Machine Learning `week 1`
-- Vectors are objects that move around space `week 2`
-- Matrices in Linear Algebra: Objects that operate on Vectors `week 3`
-- Matrices make linear mappings `week 4`
-- Eigenvalues and Eigenvectors: Application to Data Problems `week 5`
+- Statistics of Datasets `week 1`
+- Inner Products `week 2`
+- Orthogonal Projections `week 3`
+- Principal Component Analysis `week 4`
 
 ## My cute panda bear
 
@@ -26,5 +25,5 @@ In This educational program on Linear Algebra I learned at what linear algebra i
 
 ## Credit
 
-- [Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
-- [Certification-Link](https://www.coursera.org/account/accomplishments/verify/HHP3FMC67P9F)
+- [Mathematics for Machine Learning: PCA](https://www.coursera.org/learn/pca-machine-learning)
+- [Certification-Link]
