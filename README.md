@@ -2,7 +2,7 @@
 
 #### Author: Tackhyun Jung
 
-#### Status: ~ing
+#### Status: Completed
 
 This repository is created to keep track of [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning) provided by Coursera. This educational program is developed by Imperial College London and designed to getting up to speed in the underlying mathematics, building an intuitive understanding, and relating it to Machine Learning and Data Science.
 
@@ -39,4 +39,4 @@ The third course, Dimensionality Reduction with Principal Component Analysis, us
 ## Credit
 
 * [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
-* Certification-Link
+* [Certification-Link](https://www.coursera.org/account/accomplishments/specialization/G56RYAP7LC8Y)
