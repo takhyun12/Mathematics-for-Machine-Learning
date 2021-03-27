@@ -25,7 +25,6 @@ The third course, Dimensionality Reduction with Principal Component Analysis, us
 * Gradient Descent
 * Dimensionality Reduction
 * Python Programming
-* Linear Algebra
 
 ---
 
