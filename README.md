@@ -12,6 +12,8 @@ The second course, Multivariate Calculus, builds on this to look at how to optim
 
 The third course, Dimensionality Reduction with Principal Component Analysis, uses the mathematics from the first two courses to compress high-dimensional data. This course is of intermediate difficulty and will require Python and numpy knowledge.
 
+![Certificate](https://user-images.githubusercontent.com/41291493/112722993-c37efd80-8f4f-11eb-82c3-735953ec1818.png)
+
 ---
 
 ## Learning Objectives
