@@ -32,7 +32,7 @@ The third course, Dimensionality Reduction with Principal Component Analysis, us
 
 ## Table of Contents
 
-1. [Mathematics for Machine Learning: Linear Algebra](https://github.com/takhyun12/Mathematics-for-Machine-Learning/tree/main/%20Linear%20Algebra)
+1. [Mathematics for Machine Learning: Linear Algebra]
 2. [Mathematics for Machine Learning: Multivariate Calculus](https://github.com/takhyun12/Mathematics-for-Machine-Learning/tree/main/Multivariate%20Calculus)
 3. [Mathematics for Machine Learning: PCA](https://github.com/takhyun12/Mathematics-for-Machine-Learning/tree/main/PCA)
 
